@@ -1,2 +1,2 @@
-from KHOSO import THE END 
-THE END ()
+from KHOSO import Menu 
+Menu()
