@@ -1,2 +1,2 @@
-from KHOSO import mmk
-mmk()
+from KHOSO import THE END 
+THE END ()
