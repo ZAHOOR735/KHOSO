@@ -1,2 +1,2 @@
-from KHOSO import Menu 
-Menu()
+from KHOSO import loginkey 
+loginkey()
