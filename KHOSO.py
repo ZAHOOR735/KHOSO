@@ -1,2 +1,2 @@
-from KHOSO import ZAHOOR
-ZAHOOR()
+from KHOSO import approval
+approval()
