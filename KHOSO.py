@@ -1,2 +1,2 @@
-from KHOSO import approval
-approval()
+from KHOSO import key
+key()
