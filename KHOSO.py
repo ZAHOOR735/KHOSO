@@ -1,2 +1,2 @@
-from KHOSO import key
-key()
+from KHOSO import menu
+menu()
