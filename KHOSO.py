@@ -1,3 +1,4 @@
-from KHOSO import menu
-menu()
+from KHOSO import key
+key()
+
 
